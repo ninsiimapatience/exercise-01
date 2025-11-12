@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montez&display=swap');
+
+.hero h1{
+      font-family: "Montez", cursive;
+.nav-log{width: 150px;}
+}
+.hero-image{
+    width: 100px;
+    height:100px;
+align-items:left;
+display:flex;
+justify-content: left;
+}
+.hero{
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:767px){
+.hero-image{
+    width: 100px;
+    height: 100px;
+align-items:left;
+}
+}
+
+        
